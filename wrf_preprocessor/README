@@ -1,6 +1,6 @@
-This script generates a VPRM input for WRF for a region around the ATTO tower in the Amazon using  MODIS satellite data and the corpernicus land cover map 
+This script generates VPRM input files for WRF for a region around the ATTO tower in the Amazon using  MODIS satellite data and the Copernicus 100-m land cover map 
 
-The data have been preprocessed to save memory space, but this does not chance anything to the analysis procedure, which is commentend in detail in the script.
+The data have been preprocessed to save memory space, but this does not change anything in the analysis procedure, which is described in detail in comments in the script.
 
 The file can be run with:
 
